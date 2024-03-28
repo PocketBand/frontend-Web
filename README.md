@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=63a1ff&height=300&section=header&text=PocketBand&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend&descAlignY=60&fontColor=ffffff)
 
+
 ## Git Flow 브랜치 전략 사용 예정
 
 - 초기 셋업 브랜치는 develop에 반영(셋업 환경은 develop에서 pull로 받을 것)
@@ -12,7 +13,11 @@
 
 - pr후에는 완료된 사람이 완료되었다고 말해주고 팀원은 pull로 develop에서 받기
 
-- 최종 배포 올릴시에는 main브랜치 사용 
+- 최종 배포 올릴시에는 main브랜치 사용
+
+### develop브랜치 생성
+
+- PR rule 적용해놓음 (세팅참고) 
 
 
   
